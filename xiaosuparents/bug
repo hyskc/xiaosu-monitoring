@@ -1,0 +1,5 @@
+> Task :app:compileDebugKotlin FAILED
+e: file:///D:/suju/linshi/xiaosuparents/xiaosuparent/app/src/main/java/com/example/xiaosuparent/fragments/AssociatedStudentsFragment.kt:57:47 Unresolved reference: action_associatedStudentsFragment_to_linkStudentFragment
+e: file:///D:/suju/linshi/xiaosuparents/xiaosuparent/app/src/main/java/com/example/xiaosuparent/fragments/AssociatedStudentsFragment.kt:94:60 Unresolved reference: success
+e: file:///D:/suju/linshi/xiaosuparents/xiaosuparent/app/src/main/java/com/example/xiaosuparent/fragments/AssociatedStudentsFragment.kt:143:60 Unresolved reference: success
+

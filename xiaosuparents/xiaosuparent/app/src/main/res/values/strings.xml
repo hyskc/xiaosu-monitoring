@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">小苏学长家长端</string>
+    
+    <!-- 通用 -->
+    <string name="loading">加载中…</string>
+    <string name="error">出错了</string>
+    <string name="success">成功</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确认</string>
+    <string name="back">返回</string>
+    
+    <!-- 登录注册 -->
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="confirm_password">确认密码</string>
+    <string name="no_account">没有账号？点击注册</string>
+    <string name="has_account">已有账号？点击登录</string>
+    <string name="logout">退出登录</string>
+    
+    <!-- 学生关联 -->
+    <string name="link_student">关联学生账号</string>
+    <string name="link_student_desc">请输入学生的账号和密码进行关联</string>
+    <string name="student_account">学生账号</string>
+    <string name="student_password">学生密码</string>
+    <string name="link">关联</string>
+    <string name="view_associated_students">查看已关联学生账号</string>
+    <string name="associated_students">已关联学生</string>
+    <string name="no_associated_students">您还没有关联任何学生账号</string>
+    <string name="unlink">解除关联</string>
+    <string name="add_student">添加学生</string>
+    <string name="unlink_confirm">确定要解除与该学生的关联吗？</string>
+    
+    <!-- 文件管理 -->
+    <string name="select_student">选择学生</string>
+    <string name="no_files">暂无文件</string>
+    <string name="view_file">查看文件</string>
+    
+    <!-- 应用监控 -->
+    <string name="app_monitor_title">应用使用监控</string>
+    <string name="refresh">刷新</string>
+    <string name="sort_by_duration">时长 ↓</string>
+    <string name="sort_by_duration_asc">时长 ↑</string>
+    <string name="category">分类</string>
+    <string name="all_categories">全部</string>
+    <string name="no_app_usage_data">暂无应用使用数据</string>
+    <string name="no_categories_available">没有可用的应用分类</string>
+    <string name="launch_count">启动次数: %d</string>
+    <string name="last_used">最后使用: %s</string>
+</resources>

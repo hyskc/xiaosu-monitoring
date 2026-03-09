@@ -1,0 +1,69 @@
+> Task :app:compileDebugKotlin
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/manager/AppUsageUploadManager.kt:5:17 Unresolved reference: work
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/manager/AppUsageUploadManager.kt:41:27 Unresolved reference: Constraints
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/manager/AppUsageUploadManager.kt:42:37 Unresolved reference: NetworkType
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/manager/AppUsageUploadManager.kt:47:27 Unresolved reference: PeriodicWorkRequestBuilder
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/manager/AppUsageUploadManager.kt:49:33 Unresolved reference: BackoffPolicy
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/manager/AppUsageUploadManager.kt:53:9 Unresolved reference: WorkManager
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/manager/AppUsageUploadManager.kt:56:17 Unresolved reference: ExistingPeriodicWorkPolicy
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/manager/AppUsageUploadManager.kt:68:27 Unresolved reference: Constraints
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/manager/AppUsageUploadManager.kt:69:37 Unresolved reference: NetworkType
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/manager/AppUsageUploadManager.kt:73:27 Unresolved reference: OneTimeWorkRequestBuilder
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/manager/AppUsageUploadManager.kt:78:9 Unresolved reference: WorkManager
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/manager/AppUsageUploadManager.kt:86:9 Unresolved reference: WorkManager
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/util/AppUsageDataStore.kt:5:17 Unresolved reference: datastore
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/util/AppUsageDataStore.kt:6:17 Unresolved reference: datastore
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/util/AppUsageDataStore.kt:7:17 Unresolved reference: datastore
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/util/AppUsageDataStore.kt:27:40 Unresolved reference: DataStore
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/util/AppUsageDataStore.kt:27:50 Unresolved reference: Preferences
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/util/AppUsageDataStore.kt:27:66 Unresolved reference: preferencesDataStore
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/util/AppUsageDataStore.kt:61:23 Unresolved reference: stringPreferencesKey
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/util/AppUsageDataStore.kt:77:38 Cannot infer a type for this parameter. Please specify it explicitly.
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/util/AppUsageDataStore.kt:80:29 Unresolved reference: stringPreferencesKey
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/util/AppUsageDataStore.kt:97:23 Unresolved reference: stringPreferencesKey
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/util/AppUsageDataStore.kt:101:26 Cannot infer a type for this parameter. Please specify it explicitly.
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/util/AppUsageDataStore.kt:104:25 Unresolved reference: emit
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/util/AppUsageDataStore.kt:104:30 Unresolved reference: emptyPreferences
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/util/AppUsageDataStore.kt:109:24 Cannot infer a type for this parameter. Please specify it explicitly.
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/util/AppUsageDataStore.kt:120:27 Overload resolution ambiguity: 
+public open fun <T : Any!> fromJson(p0: JsonElement!, p1: Type!): TypeVariable(T)! defined in com.google.gson.Gson
+public open fun <T : Any!> fromJson(p0: JsonReader!, p1: Type!): TypeVariable(T)! defined in com.google.gson.Gson
+public open fun <T : Any!> fromJson(p0: Reader!, p1: Type!): TypeVariable(T)! defined in com.google.gson.Gson
+public open fun <T : Any!> fromJson(p0: String!, p1: Type!): TypeVariable(T)! defined in com.google.gson.Gson
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/util/AppUsageDataStore.kt:135:26 Cannot infer a type for this parameter. Please specify it explicitly.
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/util/AppUsageDataStore.kt:138:25 Unresolved reference: emit
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/util/AppUsageDataStore.kt:138:30 Unresolved reference: emptyPreferences
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/util/AppUsageDataStore.kt:159:39 Unresolved reference: stringPreferencesKey
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/util/AppUsageDataStore.kt:164:79 Overload resolution ambiguity: 
+public open fun <T : Any!> fromJson(p0: JsonElement!, p1: Type!): TypeVariable(T)! defined in com.google.gson.Gson
+public open fun <T : Any!> fromJson(p0: JsonReader!, p1: Type!): TypeVariable(T)! defined in com.google.gson.Gson
+public open fun <T : Any!> fromJson(p0: Reader!, p1: Type!): TypeVariable(T)! defined in com.google.gson.Gson
+public open fun <T : Any!> fromJson(p0: String!, p1: Type!): TypeVariable(T)! defined in com.google.gson.Gson
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/util/AppUsageDataStore.kt:184:23 Unresolved reference: stringPreferencesKey
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/util/AppUsageDataStore.kt:187:38 Cannot infer a type for this parameter. Please specify it explicitly.
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/util/AppUsageDataStore.kt:210:46 Unresolved reference: Preferences
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/util/AppUsageDataStore.kt:241:42 Cannot infer a type for this parameter. Please specify it explicitly.
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/worker/AppUsageUploadWorker.kt:7:17 Unresolved reference: work
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/worker/AppUsageUploadWorker.kt:8:17 Unresolved reference: work
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/worker/AppUsageUploadWorker.kt:12:35 Unresolved reference: RetrofitClient
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/worker/AppUsageUploadWorker.kt:15:32 Unresolved reference: PreferenceManager
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/worker/AppUsageUploadWorker.kt:30:19 Unresolved reference: WorkerParameters
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/worker/AppUsageUploadWorker.kt:31:5 Unresolved reference: CoroutineWorker
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/worker/AppUsageUploadWorker.kt:40:5 'doWork' overrides nothing
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/worker/AppUsageUploadWorker.kt:40:36 One type argument expected for class Result<out T>
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/worker/AppUsageUploadWorker.kt:45:37 Unresolved reference: PreferenceManager
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/worker/AppUsageUploadWorker.kt:45:55 Unresolved reference: applicationContext
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/worker/AppUsageUploadWorker.kt:50:43 Not enough information to infer type variable T
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/worker/AppUsageUploadWorker.kt:50:50 No value passed for parameter 'exception'
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/worker/AppUsageUploadWorker.kt:58:43 Not enough information to infer type variable T
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/worker/AppUsageUploadWorker.kt:58:50 No value passed for parameter 'value'
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/worker/AppUsageUploadWorker.kt:68:28 Unresolved reference: RetrofitClient
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/worker/AppUsageUploadWorker.kt:74:43 Not enough information to infer type variable T
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/worker/AppUsageUploadWorker.kt:74:50 No value passed for parameter 'value'
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/worker/AppUsageUploadWorker.kt:77:43 Unresolved reference: retry
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/worker/AppUsageUploadWorker.kt:82:39 Unresolved reference: retry
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/worker/AppUsageUploadWorker.kt:93:59 Unresolved reference: applicationContext
+e: file:///D:/suju/linshi/xiaosuteacher/xiaosu/app/src/main/java/com/example/xiaosu/worker/AppUsageUploadWorker.kt:145:59 Unresolved reference: applicationContext
+
+> Task :app:compileDebugKotlin FAILED
+
