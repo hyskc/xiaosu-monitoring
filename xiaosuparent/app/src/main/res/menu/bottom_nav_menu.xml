@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@android:drawable/ic_menu_compass"
+        android:title="首页" />
+        
+    <item
+        android:id="@+id/appMonitorFragment"
+        android:icon="@android:drawable/ic_menu_recent_history"
+        android:title="应用监控" />
+
+    <item
+        android:id="@+id/profileFragment"
+        android:icon="@android:drawable/ic_menu_myplaces"
+        android:title="我的" />
+
+</menu>
