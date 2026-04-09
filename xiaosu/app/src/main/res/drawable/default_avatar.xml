@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- 背景圆形 -->
+    <path
+        android:fillColor="#DDDDDD"
+        android:pathData="M12,12m-12,0a12,12 0,1 1,24 0a12,12 0,1 1,-24 0" />
+
+    <!-- 头部 -->
+    <path
+        android:fillColor="#AAAAAA"
+        android:pathData="M12,12m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0" />
+
+    <!-- 身体 -->
+    <path
+        android:fillColor="#AAAAAA"
+        android:pathData="M12,16c-4.42,0 -8,1.79 -8,4v2h16v-2C20,17.79 16.42,16 12,16z" />
+</vector>

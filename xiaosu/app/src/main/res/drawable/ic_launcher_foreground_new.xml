@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108"
+    android:tint="#FFFFFF">
+    
+    <!-- 外圆形光环 -->
+    <path
+        android:fillColor="#33FFFFFF"
+        android:pathData="M54,54m-40,0a40,40 0,1 1,80 0a40,40 0,1 1,-80 0" />
+    
+    <!-- 书本 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,42L70,42L70,76L38,76Z" />
+    
+    <!-- 书本封面线条 -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M38,42L70,42L70,76L38,76Z"
+        android:strokeWidth="1.5"
+        android:strokeColor="#EEFFFFFF" />
+    
+    <!-- 书本中间线 -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,42L54,76"
+        android:strokeWidth="1.5"
+        android:strokeColor="#EEFFFFFF" />
+    
+    <!-- 书本页面线条 - 左侧 -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M42,50L50,50"
+        android:strokeWidth="1"
+        android:strokeColor="#EEFFFFFF" />
+    
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M42,56L50,56"
+        android:strokeWidth="1"
+        android:strokeColor="#EEFFFFFF" />
+    
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M42,62L50,62"
+        android:strokeWidth="1"
+        android:strokeColor="#EEFFFFFF" />
+    
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M42,68L50,68"
+        android:strokeWidth="1"
+        android:strokeColor="#EEFFFFFF" />
+    
+    <!-- 书本页面线条 - 右侧 -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M58,50L66,50"
+        android:strokeWidth="1"
+        android:strokeColor="#EEFFFFFF" />
+    
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M58,56L66,56"
+        android:strokeWidth="1"
+        android:strokeColor="#EEFFFFFF" />
+    
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M58,62L66,62"
+        android:strokeWidth="1"
+        android:strokeColor="#EEFFFFFF" />
+    
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M58,68L66,68"
+        android:strokeWidth="1"
+        android:strokeColor="#EEFFFFFF" />
+    
+    <!-- 毕业帽 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,30m-10,0a10,10 0,1 1,20 0a10,10 0,1 1,-20 0" />
+    
+    <!-- 毕业帽顶部 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M44,30L64,30L54,20Z" />
+    
+    <!-- 毕业帽流苏 -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,20L54,16L58,12"
+        android:strokeWidth="1.5"
+        android:strokeColor="#FFFFFF" />
+    
+    <!-- 小苏老师文字 - 简化为"苏" -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M52,54L56,54L56,58L52,58Z" />
+    
+    <!-- 教鞭/教师笔 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M70,30L74,26L76,28L72,32Z" />
+    
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M72,32L78,38"
+        android:strokeWidth="1.5"
+        android:strokeColor="#FFFFFF" />
+</vector>
