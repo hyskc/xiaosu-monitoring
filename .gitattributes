@@ -1,1 +1,2 @@
-xaiosu/** linguist-vendored
+gitattributes
+*.kt linguist-generated=true
